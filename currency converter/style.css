@@ -1,0 +1,32 @@
+p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.amount{
+    font-size: 2rem;
+    margin: 2rem;
+    text-align: center
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    margin: 2rem;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+button{
+     margin: 2rem;
+     padding: 0.5rem;
+     font-size: 1rem;
+}
+h1{
+    text-align: center;
+}
